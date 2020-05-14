@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Open Sans';
+}
+
+h1, h2, h3, h4, h4, h6, p {
+    margin: 0;
+    padding: 0;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+}
